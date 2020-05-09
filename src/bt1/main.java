@@ -25,7 +25,7 @@ public class main {
                 .builder();
         CTHD cthd1 = new CTHD.Builder()
                 .addSanPham("Điện thoại")
-                .addSoLuong(1)
+                .addSoLuong(2)
                 .addDonGia(2000)
                 .addChietKhau((float)0.2)
                 .builder();
